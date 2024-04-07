@@ -23,7 +23,7 @@ function App() {
           key +
           "&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa"
         }
-        style={{ minWidth: "100%", minHeight: "600px" }}
+        style={{ minWidth: "100%", minHeight: "900px" }}
       />
     </div>
   );
