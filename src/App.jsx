@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div style={{ textAlign: "center" }}>
         <h1>🎯 This is a useless website full of useless resources 😅</h1>
-        <p>(Work in progress, currently v1.2)</p>
+        <p>(Work in progress, currently v1.3)</p>
 <blockquote>
         <p id="quote">
           <i>
