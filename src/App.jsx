@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div style={{ textAlign: "center" }}>
         <h1>This is a useless website full of useless resources ;)</h1>
-        <p>(Work in progress)</p>
+        <p>(Work in progress, currently v1.0.2)</p>
         <p id="quote">
           <i>
             "The production of too many useful things results in too many
