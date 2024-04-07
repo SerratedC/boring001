@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import IframeResizer from 'iframe-resizer-react';
+import getAPIKey from './apiKey';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <p>(Work in progress)</p>
       <p id='quote'><i>"The production of too many useful things results in too many useless people." - Karl Marx</i></p>
       </div>
-     <IframeResizer src="https://googledriveembedder.collegefam.com/?key=AIzaSyC9d4ikcBn6k2foxIALl6SFere-jBskpFs&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa" style={{minWidth: '100%', minHeight:"600px"}}/>
+     <IframeResizer src={"https://googledriveembedder.collegefam.com/?key="+getAPIKey()+"&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa"} style={{minWidth: '100%', minHeight:"600px"}}/>
     </div>
   );
 }
