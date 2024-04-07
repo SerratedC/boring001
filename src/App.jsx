@@ -8,14 +8,16 @@ function App() {
   return (
     <div className="App">
       <div style={{ textAlign: "center" }}>
-        <h1>This is a useless website full of useless resources ;)</h1>
-        <p>(Work in progress, currently v1.0.2)</p>
+        <h1>🎯 This is a useless website full of useless resources 😅</h1>
+        <p>(Work in progress, currently v1.2)</p>
+<blockquote>
         <p id="quote">
           <i>
-            "The production of too many useful things results in too many
+            "💯 The production of too many useful things results in too many
             useless people." - Karl Marx
           </i>
-        </p>
+        </p></blockquote>
+<p>Download below 👇</p>
       </div>
       <IframeResizer
         src={
