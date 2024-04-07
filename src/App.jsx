@@ -10,7 +10,7 @@ function App() {
       <p>(Work in progress)</p>
       <p id='quote'><i>"The production of too many useful things results in too many useless people." - Karl Marx</i></p>
       </div>
-     <IframeResizer src="https://googledriveembedder.collegefam.com/?key=AIzaSyC9d4ikcBn6k2foxIALl6SFere-jBskpFs&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa" style={{minWidth: '100%', minHeight:"650px"}}/>
+     <IframeResizer src="https://googledriveembedder.collegefam.com/?key=AIzaSyC9d4ikcBn6k2foxIALl6SFere-jBskpFs&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa" style={{minWidth: '100%', minHeight:"650px", zoom: "85%"}}/>
     </div>
   );
 }
