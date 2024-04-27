@@ -10,14 +10,15 @@ function App() {
       <div style={{ textAlign: "center" }}>
         <h1>🎯 This is a useless website full of useless resources 😅</h1>
         <p>(Work in progress, currently v1.3)</p>
-<blockquote>
-        <p id="quote">
-          <i>
-            "💯 The production of too many useful things results in too many
-            useless people." - Karl Marx
-          </i>
-        </p></blockquote>
-<p>Download below 👇</p>
+        <blockquote>
+          <p id="quote">
+            <i>
+              "💯 The production of too many useful things results in too many
+              useless people." - Karl Marx
+            </i>
+          </p>
+        </blockquote>
+        <p>Download below 👇</p>
       </div>
       <IframeResizer
         src={
@@ -25,7 +26,7 @@ function App() {
           key +
           "&folderid=1yfX0cpjv8IOxsw06C2ip3RpNveH19vUa"
         }
-        style={{minWidth: "100%", minHeight: "27000px" }}
+        style={{ minWidth: "100%", minHeight: "27000px" }}
       />
     </div>
   );
