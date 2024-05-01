@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div style={{ textAlign: "center" }}>
         <h1>🎯 This is a useless website full of useless resources 😅</h1>
-        <p>(No longer maintained (EOL))</p>
+        <p>(No longer maintained - REACHED END OF LIFE)</p>
         <blockquote>
           <p id="quote">
             <i>
